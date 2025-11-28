@@ -32,3 +32,28 @@ th {
     font-weight: bold;
     background-color: #ddd;
 }
+
+
+
+
+
+/* Tabs Navigation Bar */
+.tabs {
+    margin-top: 20px;
+}
+
+.tabs a {
+    display: inline-block;
+    padding: 8px 15px;
+    margin-right: 5px;
+    background-color: #b3b3b3;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.tabs a:hover {
+    background-color: #999;
+}
+
