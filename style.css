@@ -8,10 +8,13 @@ body {
     line-height: 1.6;
 }
 
+
 h1, h2 {
     color: #fff;
 }
 
+
+/* background, colors*/
 .profile-pic {
     width: 200px;
     border-radius: 10px;
@@ -19,11 +22,13 @@ h1, h2 {
     margin-bottom: 20px;
 }
 
+
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
+
 
 th, td {
     border: 1px solid #fff;
@@ -32,10 +37,12 @@ th, td {
     color: #fff;
 }
 
+
 th {
     font-weight: bold;
     background-color: #333;
 }
+
 
 
 /* Tabs*/
@@ -43,6 +50,7 @@ th {
     margin-top: 20px;
 }
 
+/* Tabs*/
 .tabs a {
     display: inline-block;
     padding: 8px 15px;
@@ -53,6 +61,8 @@ th {
     border-radius: 5px;
     font-weight: bold;
 }
+
+
 
 /*does not turn tab purple when visited*/
 .tabs a:link,
@@ -72,3 +82,10 @@ p {
     max-width: 900px;
 }
 
+/*for photo*/
+.picture {
+    width: 120px;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 20px;
+}
